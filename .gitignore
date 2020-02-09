@@ -2,6 +2,7 @@
 *.o
 *.obj
 *.elf
+*.z64
 
 # Linker output
 *.ilk
